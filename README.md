@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabh-taylor&label=Profile%20views&color=0e75b6&style=flat" alt="saurabh-taylor" /> </p>
 
-- 🔭 I’m currently Job in **FullStack , Backend Developer**
+- 🔭 I’m Looking For Job in **FullStack , Backend Developer**
 
 - 🌱 I’m currently learning **Next.js , Supabase , postgresql**
 
