@@ -3,11 +3,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabh-taylor&label=Profile%20views&color=0e75b6&style=flat" alt="saurabh-taylor" /> </p>
 
-- 🔭 I’m Looking For Job in **FullStack , Backend Developer**
+- 🔭 I’m currently working as a Full Stack Engineer at a small company in Jodhpur, Rajasthan. My work schedule is 9 hours a day, 6 days a week, with a 1-hour commute. As a result, you may notice fewer commits on       my GitHub, but I make it a point to learn whenever I find time outside of work. However, the long hours can sometimes be exhausting. 
 
-- 🌱 I’m currently learning **Next.js , Supabase , postgresql**
+    Since joining this company, I’ve been reflecting on whether it’s the right fit for me. The environment lacks structured leadership—there’s no team lead or manager—and my colleagues, mostly younger, are more       inclined to talk than to engage in meaningful collaboration or peer learning. This has motivated me to work even harder, though, as I’m passionate about learning and curious about how different technologies       work. I’m always interested in the ideologies behind the technologies we use and the thought process behind why one idea is chosen over others.
 
-- 📫 How to reach me **tailorsaurabh12@gmail.com**
+    For me, visualization is key. If I can visualize an idea or concept, I feel confident in my ability to build it. This approach helps me stay motivated and continue improving my skills, even in a challenging       work environment.
+
+- 🌱 I’m currently learning **Next.js , K8s , React Native**
+
+- 📫 How to reach me **tailorsaurabh12@gmail.com** || **Twitter - @tailorsrb**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
